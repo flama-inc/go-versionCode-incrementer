@@ -1,4 +1,4 @@
-# Go android versionCode incrementer
+# Go versionCode incrementer
 
 - To increment `versioncode` value in `android/app/build.gradle`.
   - Intended to be used within Taskfile.yml (or any task runners).
